@@ -1,7 +1,7 @@
 # Draggable-sorting native JS module
 
-##Usage example
-####Html
+## Usage example
+#### Html
 ```html
 <div class="container">
     <div class="item">
@@ -32,7 +32,7 @@
 </div>
 ```
 
-####JS
+#### JS
 ```js
     import draggableSorting from './draggableSorting';
 

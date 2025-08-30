@@ -4,8 +4,8 @@
         "sorting",
         "draggable"
     ],
-    "homepage": "https://",
-    "bugs": "https://",
+    "homepage": "https://github.com/downtest/draggable-sorting",
+    "bugs": "https://github.com/downtest/draggable-sorting/issues",
     "repository": "https://github.com/downtest/",
     "author": "Roman Morozov <ramirez2006@mail.ru>",
     "license": "MIT",
