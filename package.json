@@ -1,0 +1,15 @@
+{
+    "name": "draggable-sorting",
+    "keywords": [
+        "sorting",
+        "draggable"
+    ],
+    "homepage": "https://",
+    "bugs": "https://",
+    "repository": "https://github.com/downtest/",
+    "author": "Roman Morozov <ramirez2006@mail.ru>",
+    "license": "MIT",
+    "version": "1.0.0",
+    "description": "Module to drag and sort items in list",
+    "main": "index.js"
+}

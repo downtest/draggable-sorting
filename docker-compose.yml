@@ -1,0 +1,6 @@
+services:
+    nodejs:
+        image: node:24-alpine3.21
+        volumes:
+            - .:/www
+        working_dir: /www
