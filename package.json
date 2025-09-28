@@ -1,5 +1,6 @@
 {
     "name": "draggable-sorting",
+    "type": "module",
     "keywords": [
         "sorting",
         "draggable"
@@ -11,5 +12,10 @@
     "license": "MIT",
     "version": "1.0.0",
     "description": "Module to drag and sort items in list",
+    "files": [
+        "index.js",
+        "LICENSE",
+        "README.md"
+    ],
     "main": "index.js"
 }
